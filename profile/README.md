@@ -7,3 +7,14 @@
 <h3 align="center">Hi, We are Xooxe &nbsp; <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="35px"></h3> 
 
 <br>
+
+
+<div dir="rtl" style="font-family:Vazir;" >
+<br>    
+
+<p class="text-justify">
+    جهت تست فونت وزیر
+    <br>
+    
+    
+</p> 
